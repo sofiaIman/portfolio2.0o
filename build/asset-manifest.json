@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sofiaIman/static/css/main.bf538fe7.css",
-    "main.js": "/sofiaIman/static/js/main.20a1c18e.js",
-    "index.html": "/sofiaIman/index.html",
-    "main.bf538fe7.css.map": "/sofiaIman/static/css/main.bf538fe7.css.map",
-    "main.20a1c18e.js.map": "/sofiaIman/static/js/main.20a1c18e.js.map"
+    "main.css": "./static/css/main.bf538fe7.css",
+    "main.js": "./static/js/main.733efb0d.js",
+    "index.html": "./index.html",
+    "main.bf538fe7.css.map": "./static/css/main.bf538fe7.css.map",
+    "main.733efb0d.js.map": "./static/js/main.733efb0d.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.20a1c18e.js"
+    "static/js/main.733efb0d.js"
   ]
 }

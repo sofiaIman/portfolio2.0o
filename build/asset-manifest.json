@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sofiaIman/static/css/main.bf538fe7.css",
+    "main.js": "/sofiaIman/static/js/main.20a1c18e.js",
+    "index.html": "/sofiaIman/index.html",
+    "main.bf538fe7.css.map": "/sofiaIman/static/css/main.bf538fe7.css.map",
+    "main.20a1c18e.js.map": "/sofiaIman/static/js/main.20a1c18e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.20a1c18e.js"
+  ]
+}
